@@ -11,4 +11,11 @@
 
 静的な `index.html` をリポジトリのルートから GitHub Pages で公開します。
 
+## 関連リンク
+
+- [学習物理学 公式サイト](https://mlphys.scphys.kyoto-u.ac.jp/)
+- [学習物理学 X（旧Twitter）](https://twitter.com/MLPhysJP) — 領域公式サイトからリンク
+- [学習物理学 YouTube](https://www.youtube.com/channel/UCgNJsnyWEIAUVW5neU4BRCg)
+- [座談会のきっかけとなったOpenAIの公開](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+
 所属・職名は2026年10月8日に[京都大学の研究者データベース](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.fad1ebe2c31ae630.html)、[東京大学の教員ページ](https://www.s.u-tokyo.ac.jp/ja/people/kabashima_yoshiyuki/)、[東京女子大学の研究者情報](https://www-cv01.ufinity.jp/twcu/cvclients/researchers/akio-tomiya?frame_id=254&lang=ja)で確認しました。

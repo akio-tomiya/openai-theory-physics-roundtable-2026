@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#102940">
-    <meta name="description" content="学習物理学・緊急オンライン座談会『OpenAI論文と理論物理』。2026年10月12日（月）20:00–21:00頃、YouTube Liveで開催。">
+    <meta name="description" content="OpenAIによる数学の研究成果公開を受け、AIが理論物理の研究をどう変えるかを議論する学習物理学の緊急オンライン座談会。2026年10月12日（月）20:00–21:00頃、YouTube Liveで開催。">
     <title>学習物理学・緊急オンライン座談会「OpenAI論文と理論物理」</title>
     <style>
       :root {
@@ -108,6 +108,14 @@
         line-height: 1.6;
       }
 
+      .hero-lead {
+        max-width: 700px;
+        margin: 31px 0 0;
+        color: #dce8e7;
+        font-size: clamp(1rem, 1.7vw, 1.15rem);
+        line-height: 1.9;
+      }
+
       .info {
         position: relative;
         z-index: 1;
@@ -141,6 +149,49 @@
       .date small { font-size: .53em; letter-spacing: 0; white-space: nowrap; }
 
       .section { padding: 100px 0 106px; }
+
+      .overview { padding: 94px 0 86px; border-bottom: 1px solid var(--line); }
+
+      .overview-grid {
+        display: grid;
+        grid-template-columns: minmax(220px, .8fr) minmax(0, 1.7fr);
+        gap: 70px;
+      }
+
+      .overview-copy p {
+        max-width: 760px;
+        margin: 0 0 18px;
+        font-size: 1.04rem;
+        line-height: 2;
+      }
+
+      .overview-copy p:last-child { margin-bottom: 0; }
+
+      .related-links {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        margin-top: 50px;
+      }
+
+      .related-links a {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+        min-height: 72px;
+        padding: 17px 20px;
+        border: 1px solid var(--line);
+        background: #fff;
+        font-size: .91rem;
+        font-weight: 700;
+        text-decoration: none;
+        transition: background .2s ease, border-color .2s ease;
+      }
+
+      .related-links a:hover { background: #edf2f1; border-color: #86a9b4; }
+
+      .related-links span { color: var(--blue); font-size: 1.2rem; }
 
       .section-heading {
         display: flex;
@@ -230,6 +281,9 @@
         .info { grid-template-columns: 1fr; margin-top: -43px; }
         .info > div { padding: 22px 24px; }
         .info > div + div { border-left: 0; border-top: 1px solid var(--line); }
+        .overview { padding: 75px 0 65px; }
+        .overview-grid { grid-template-columns: 1fr; gap: 25px; }
+        .related-links { grid-template-columns: 1fr; gap: 9px; margin-top: 35px; }
         .section { padding: 75px 0 82px; }
         .section-heading { display: block; }
         .section-heading p { margin-top: 8px; }
@@ -243,6 +297,7 @@
       <div class="wrap">
         <div class="topline"><span>学習物理学</span><span>ONLINE ROUNDTABLE</span></div>
         <h1><span class="event-series">学習物理学・緊急オンライン座談会</span><span>「OpenAI論文と</span><span>理論物理」</span></h1>
+        <p class="hero-lead">OpenAIによる数学の研究成果公開をきっかけに、AIが理論物理の研究をどう変えるのかを議論します。</p>
       </div>
     </header>
 
@@ -257,6 +312,24 @@
           <p class="date">YouTube Live</p>
         </div>
       </div>
+
+      <section class="overview wrap" aria-labelledby="overview-title">
+        <div class="overview-grid">
+          <div>
+            <p class="label">ABOUT THIS ROUNDTABLE</p>
+            <h2 id="overview-title">開催の背景と概要</h2>
+          </div>
+          <div class="overview-copy">
+            <p>2026年10月、OpenAIはAIによる数学の研究成果を<a href="https://openai.com/index/sharing-ai-progress-in-mathematics/">公開しました</a>。この発表を入口に、理論物理の研究現場で何が変わり得るのかを考えます。</p>
+            <p>座談会では、AIが与えられた問題を解く力と研究課題を見つける力、模型や近似の選択、結果の物理的な解釈を取り上げます。研究者の仕事や若手の育成、論文・査読のあり方にも話を広げます。</p>
+          </div>
+        </div>
+        <nav class="related-links" aria-label="学習物理学の関連リンク">
+          <a href="https://mlphys.scphys.kyoto-u.ac.jp/">学習物理学 公式サイト <span aria-hidden="true">↗</span></a>
+          <a href="https://twitter.com/MLPhysJP">学習物理学 X（旧Twitter） <span aria-hidden="true">↗</span></a>
+          <a href="https://www.youtube.com/channel/UCgNJsnyWEIAUVW5neU4BRCg">学習物理学 YouTube <span aria-hidden="true">↗</span></a>
+        </nav>
+      </section>
 
       <section class="section wrap" aria-labelledby="people-title">
         <div class="section-heading">
