@@ -2,6 +2,8 @@
 
 「OpenAI論文と理論物理」の公開サイトです。
 
+公開URL: https://akio-tomiya.github.io/openai-theory-physics-roundtable-2026/
+
 - 開催予定: 2026年10月12日（月）20:00–21:00頃（日本時間）
 - 形式: YouTube Live（登壇者はZoomで接続）
 - 参加予定者: 橋本幸士、樺島祥介、富谷昭夫、ほか追加予定
