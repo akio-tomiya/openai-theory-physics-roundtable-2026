@@ -1,6 +1,6 @@
-# 学習物理学・緊急オンライン座談会
+# 学習物理学・緊急オンライン座談会「OpenAI論文と理論物理」
 
-「OpenAI論文と理論物理」の公開サイトです。
+座談会の公開サイトです。
 
 公開URL: https://akio-tomiya.github.io/openai-theory-physics-roundtable-2026/
 
