@@ -7,7 +7,7 @@
 - 開催予定: 2026年10月12日（月）20:00–21:00頃（日本時間）
 - 形式: YouTube Live（登壇者はZoomで接続）
 - 配信ページ（Akio Tomiya チャンネル）: https://youtube.com/live/MiSXhOvDZDA
-- 登壇者: 橋本幸士（京都大学大学院理学研究科 教授）、樺島祥介（東京大学大学院理学系研究科 教授）、富谷昭夫（東京女子大学 准教授／京都大学大学院理学研究科 特定准教授）、坂上貴之（京都大学大学院理学研究科 教授）、園田翔（理化学研究所 革新知能統合研究センター 上級研究員）、ほか追加予定
+- 登壇者: 橋本幸士（京都大学大学院理学研究科 教授）、樺島祥介（東京大学大学院理学系研究科 教授）、富谷昭夫（東京女子大学 准教授／京都大学大学院理学研究科 特定准教授）、坂上貴之（京都大学大学院理学研究科 教授）、園田翔（理化学研究所 革新知能統合研究センター 上級研究員）、大槻東巳（上智大学理工学部 教授）、永井佑紀（東京大学情報基盤センター 学際情報科学研究部門 准教授）、ほか追加予定
 - 科研費・学術変革領域研究（A）: 「学習物理学」の創成－機械学習と物理学の融合新領域による基礎物理学の変革
 - 視聴案内メール登録（任意）: https://docs.google.com/forms/d/e/1FAIpQLSdm5wG1iFGP5-r2f90774She1da_uBwj9xi4w97jbE7FF23Wg/viewform
 
@@ -22,4 +22,4 @@
 - [学習物理学 YouTube](https://www.youtube.com/channel/UCgNJsnyWEIAUVW5neU4BRCg)
 - [座談会のきっかけとなったOpenAIの公開](https://openai.com/index/sharing-ai-progress-in-mathematics/)
 
-所属・職名は[京都大学の研究者データベース](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.fad1ebe2c31ae630.html)、[東京大学の教員ページ](https://www.s.u-tokyo.ac.jp/ja/people/kabashima_yoshiyuki/)、[東京女子大学の研究者情報](https://www-cv01.ufinity.jp/twcu/cvclients/researchers/akio-tomiya?frame_id=254&lang=ja)、[坂上貴之さんの京都大学教員紹介](https://collab-research.sci.kyoto-u.ac.jp/researchers/pf01/)、[園田翔さんの理化学研究所チーム紹介](https://aip.riken.jp/labs/math_intel/deep_learn_theory/?lang=ja)で確認しました（最終確認：2026年10月9日）。
+所属・職名は[京都大学の研究者データベース](https://kdb.iimc.kyoto-u.ac.jp/profile/ja.fad1ebe2c31ae630.html)、[東京大学の教員ページ](https://www.s.u-tokyo.ac.jp/ja/people/kabashima_yoshiyuki/)、[東京女子大学の研究者情報](https://www-cv01.ufinity.jp/twcu/cvclients/researchers/akio-tomiya?frame_id=254&lang=ja)、[坂上貴之さんの京都大学教員紹介](https://collab-research.sci.kyoto-u.ac.jp/researchers/pf01/)、[園田翔さんの理化学研究所チーム紹介](https://aip.riken.jp/labs/math_intel/deep_learn_theory/?lang=ja)、[大槻東巳さんの上智大学教員紹介](https://fst.sophia.ac.jp/faculty/tomi-ohtsuki)、[永井佑紀さんの東京大学教員紹介](https://www.u-tokyo.ac.jp/focus/ja/people/k0001_05438.html)で確認しました（最終確認：2026年10月10日）。
